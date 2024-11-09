@@ -25,6 +25,6 @@ pipeline {
                 // Deployment steps go here
                 echo 'Deploying...'
             }
-        }
-    }
+        }
+    }
 }
